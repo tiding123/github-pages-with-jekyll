@@ -1,5 +1,5 @@
 ---
-2021-05-15: "Welcome to my blog"
+title: "Welcome to my blog"
 ---
 
 I'm glad you are here. I plan to talk about how to manage your travel expense, I will comeup with some really cost-cutting ideas. Hope you will like.
